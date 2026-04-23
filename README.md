@@ -19,4 +19,8 @@ The Grazioso Salvare project began with analyzing what was needed from the datab
 
 This approach was different from earlier assignments because it required connecting multiple components together instead of solving a single isolated problem. This meant I had to think about how different parts interacted with the system. 
 
-#
+# What do computer scientists do, and why does it matter?
+
+Computer scientists design and build systems that solve real-world problems. Their work matters because it helps organizations make better decisions, automate tasks, and improve overall productivity.
+
+For example, in this project, the dashboard and database system help a company like Grazioso Salvare quickly access and analyze animal data. This means instead of manually searching through records, the dashboard allows users to filter and view important information instantly. This saves time and allows them to focus more on their mission.
